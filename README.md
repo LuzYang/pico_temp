@@ -1,4 +1,3 @@
-```markdown
 # pico_temp
 
 A lightweight temperature data collection and demo template for Raspberry Pi Pico (and compatible boards).
@@ -91,4 +90,3 @@ Choose and add a license (e.g., MIT, Apache-2.0). This repository does not inclu
 Open an issue in this repository for questions, suggestions, or bug reports.
 
 Thanks for using pico_temp!
-```
